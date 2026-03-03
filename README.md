@@ -8,17 +8,17 @@ A real-time multiplayer tag game built using:
 - Node.js (server)
 - Socket.IO (real-time communication)
 
-## 🎮 Game Description
+## Game Description
 
 Players join a shared arena.  
-One player starts as **"It"** (red).  
+One player starts as "It" (red).  
 When the player who is "It" touches another player, the role switches.
 
 The game supports multiple players connected simultaneously in real time.
 
 ---
 
-## 🧠 Features
+## Features
 
 - Real-time multiplayer using WebSockets
 - Server-authoritative tag detection
